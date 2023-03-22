@@ -1,2 +1,3 @@
 This is the second file that I created in my repository.
 git checkout -b new : switched to new branch.
+the file "test2.txt" was not added to branch.
