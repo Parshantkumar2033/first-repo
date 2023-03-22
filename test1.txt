@@ -2,3 +2,7 @@ This is the second file that I created in my repository.
 git checkout -b new : switched to new branch.
 the file "test2.txt" was not added to branch.
 git merge master : to merge the files which are present in the master branch
+git remote add origin https://github.com/Parshantkumar2033/first-repo.git
+git push -u origin master : to push to origin
+git pull origin master : to pull 
+
